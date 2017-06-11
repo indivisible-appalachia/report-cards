@@ -1,22 +1,21 @@
 # Site settings
-title: "Typewriter"
-description: "So I was feeling nostalgic."
+title: "#TrainTheSwamp"
+description: "Report Cards for Congress"
 baseurl: ""
-url: "http://alixedi.github.io"
+url: "http://traintheswamp.com"
 
 # Build settings
 markdown: kramdown
 permalink: pretty
 highlighter: rouge
-paginate: 3
 
 # Links
 links:
-  - title: "abt"
+  - title: "order"
+    url: /order
+  - title: "about"
     url: /about
-  - title: "twt"
-    url: http://twitter.com/alixedi
-  - title: "git"
-    url: http://github.com/alixedi
-  - title: "rss"
-    url: /feed.xml
+  - title: "faq"
+    url: /faq
+  # - title: "twitter"
+  #   url: http://twitter.com/traintheswamp

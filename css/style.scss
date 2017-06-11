@@ -1,0 +1,13 @@
+---
+---
+
+// @import "{{ site.theme }}";
+
+.header > h1 {
+  font-size: 24pt;
+}
+
+.container {
+  max-width: 600px;
+  padding: 100px;
+}
